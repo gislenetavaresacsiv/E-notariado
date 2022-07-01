@@ -3,4 +3,4 @@
 
 O e-notariado é a plataforma on-line gerida pelo Colégio Notarial do Brasil – Conselho Federal, que conecta você de maneira moderna, atual e confiável aos serviços oferecidos pelos tabeliães de notas do país, totalmente digital, sem necessidade de comparecimento presencial ao cartório.
 
-O objetivo não será explicar o E-notariado e sim demonstrar o preenchimento da documentação/envio dentro do Acsiv sistemas. Além disso, todas as informações são fictícias.
+O objetivo não será explicar o E-notariado e sim demonstrar o processo da prática de ato contendo partes assinando digitalmente, nesse exemplo, utilizaremos um ato de procuração. Quando o ato for misto, você pode escolher o processo a ser realizado,mas o E-notariado sugere fazer primeiro as assinaturas físicas, depois as assinaturas digitais. 
