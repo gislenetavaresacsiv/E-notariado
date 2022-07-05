@@ -9,7 +9,7 @@ A primeira coisa a se fazer é realizar a prática do ato pelo sistema Acsiv pre
 
  ![teladocumentos](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/ATO_PRATICA.PNG)
  
- Após lavrar o ato, digitaliza o livro e o traslado em um arquivo único para anexar no E-notariado conforme imagens a seguir:
+ Após lavrar o ato, digitaliza o livro e o traslado em um arquivo único para importar no E-notariado conforme imagens a seguir:
  
  ![LIVRO](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/LIVRO.png)
 
