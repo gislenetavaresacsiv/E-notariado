@@ -9,7 +9,7 @@ A primeira coisa a se fazer é realizar a prática do ato pelo sistema Acsiv pre
 
  ![teladocumentos](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/ATO_PRATICA.PNG)
  
- Vamos demonstrar um modelo 
+ Vamos demonstrar um modelo de procuração finalizado.
  
  ![LIVRO](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/LIVRO.png)
  
