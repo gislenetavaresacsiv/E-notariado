@@ -5,7 +5,7 @@ O e-notariado é a plataforma on-line gerida pelo Colégio Notarial do Brasil �
 
 O objetivo não será explicar a plataforma do E-notariado e sim demonstrar o processo da prática de ato contendo partes assinando digitalmente, nesse exemplo, utilizaremos um ato de procuração. Quando o ato for híbrido, você pode escolher o processo a ser realizado,mas o E-notariado sugere fazer primeiro as assinaturas físicas, depois as assinaturas digitais. 
 
-A primeira coisa a se fazer é realizar a prática do ato pelo sistema Acsiv preenchendo todas as informações pelo *Menu > Notas > Documentos*, basta clicar em ![botaonovo](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/Botao_Novo.PNG) para preencher os dados conforme imagem a seguir:
+A primeira coisa a se fazer é realizar a prática do ato pelo sistema Acsiv preenchendo todas as informações pelo *(Menu > Notas > Documentos)*, basta clicar em ![botaonovo](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/Botao_Novo.PNG) para preencher os dados conforme imagem a seguir:
 
 
 
@@ -25,10 +25,13 @@ A primeira coisa a se fazer é realizar a prática do ato pelo sistema Acsiv pre
  
  **Obs:** Necessário que as partes já possuam certificado digital. Caso não possua, deve ser feito antes no CCN.
  
-  Basta acessar a plataforma do E-notariado *(Fluxo de Assinaturas)* - necessário que o Tabelião ou Escrevente Autorizado faça o login com o certificado digital. 
+ 
+  Basta acessar a plataforma do E-notariado *(Fluxo de Assinaturas)* - necessário que o Tabelião ou Escrevente Autorizado faça o login com o certificado digital.
+  
   
   
    ![enotariado](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/E-NOTARIADO.PNG)
+   
    
   
   Clicar em ![botaomais](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/bOTAO.PNG) para adicionar um novo documento.
@@ -43,7 +46,9 @@ A primeira coisa a se fazer é realizar a prática do ato pelo sistema Acsiv pre
 
  Coloque a folha do livro digitalizada:
  
+ 
  ![livro](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/ANEXAR_LIVRO.PNG)
+ 
  
  Preencher as informações solicitadas:
 
@@ -58,6 +63,7 @@ A primeira coisa a se fazer é realizar a prática do ato pelo sistema Acsiv pre
  
  
  Cadastrar como parte do ato notarial o tabelião ou escrevente autorizado que assinará eletronicamente.
+ 
 
 **Obs:** Necessário ordenar as ações, conforme assinaturas. A assinatura do tabelião deve ser a última etapa.
 
@@ -76,16 +82,21 @@ A primeira coisa a se fazer é realizar a prática do ato pelo sistema Acsiv pre
 
 Neste momento o documento é criado no E-notariado, gerando despesa para o cartório, comunicando as partes da pendência de assinatura do ato e habilitando a videoconferência conforme imagem abaixo:
 
+
  ![video](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/DEPOIS%20DE%20ENVIAR.PNG)
  
 
 Clique em criar videoconferência ![video](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/VIDEO%20CONFERENCIA%20DO%20ATO.PNG)
 
+
 Você vai copiar o link da videoconferência e enviar para a parte. **Obs:**  A videoconferência pode ser realizada com cada parte individualmente ou com todas juntas (necessário criar nova videoconferência)
+
 
 ![iniciar](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/MANDA%20O%20LINK%20PARA%20CLIENTE.PNG)
 
+
  Iniciar a videoconferência, lembrando que sempre deve ser gravada. A cobrança pelo tempo da videoconferência começa com o seu início, independentemente da parte entrar ou não.
+
 
 Após conclusão da videoconferência, a gravação não ficará disponível de forma imediata.
 
@@ -133,9 +144,12 @@ A folha do livro e o traslado com as assinaturas eletrônicas já estão dispon�
  
  Nas versões para impressão já constam os manifestos de assinatura.
  
- No Acsiv *(Menu Notas > Documentos > Aba Observações)* devem ser preenchidas as informações do ato notarial eletrônico.
+ 
+ No Acsiv  *(Menu Notas > Documentos > Aba Observações)* devem ser preenchidas as informações do ato notarial eletrônico.
+ 
 
 ![ato](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/ATO_PRATICA.PNG)
+
 
 **MNE:** Matrícula Notarial Eletrônica é um código gerado por ato notarial eletrônico. Ele é encontrado na tela do fluxo de assinaturas e também nos manifestos de assinatura.
 
@@ -143,6 +157,8 @@ A folha do livro e o traslado com as assinaturas eletrônicas já estão dispon�
 
 **Cód. valid. escrevente:** É o código da assinatura do tabelião no ato notarial eletrônico. Ele é encontrado no manifesto de assinatura do traslado.
 
+
  ![livro](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/MANIFESTO%20DE%20ASSINATURA%20DO%20LIVRO.PNG)
+ 
 
  ![traslado](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/MANIFESTO%20DE%20ASSINATURA%20DO%20TRASLADO.PNG)
