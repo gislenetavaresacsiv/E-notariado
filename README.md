@@ -48,7 +48,7 @@ Preencher as informações solicitadas:
 
  ![partes](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/DEPOIS%20MOSTRA%20A%20LOPCALIZA%C3%87%C3%83O%20DAS%20ASSINATURAS.PNG)
  
-Também cadastrar como parte o ato notarial, o tabelião ou escrevente autorizado que assinará eletronicamente.
+Também cadastrar como parte do ato notarial o tabelião ou escrevente autorizado que assinará eletronicamente.
 
 Necessário ordenar as ações, conforme assinaturas. A assinatura do tabelião deve ser a última etapa.
 
@@ -64,28 +64,55 @@ Neste momento o documento é criado no E-notariado, gerando despesa para o cart�
 
  ![video](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/DEPOIS%20DE%20ENVIAR.PNG)
 
-Clicar em iniciar videoconferência ![iniciar](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/MANDA%20O%20LINK%20PARA%20CLIENTE.PNG)
+Clicar em criar videoconferência ![video](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/VIDEO%20CONFERENCIA%20DO%20ATO.PNG)
 
- ![]()
+Copiar o link da videoconferência e enviar para a parte. Obs: A videoconferência pode ser realizada com cada parte individualmente ou com todas juntas (necessário criar nova videoconferência)
+
+![iniciar](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/MANDA%20O%20LINK%20PARA%20CLIENTE.PNG)
+
+ Iniciar a videoconferência, lembrando que sempre deve ser gravada. A cobrança pelo tempo da videoconferência começa com o seu início, independentemente da parte entrar ou não.
+
+Após conclusão da videoconferência, a gravação não ficará disponível de forma imediata.
+
+![fim](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/VIDEO%20CONFERENCIA%20NAO%20FICA%20DISPONIVEL%20NA%20HORA.PNG)
+
+Após a assinatura pelas partes, o tabelião já poderá assinar:
+
+ ![assinado](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/ASSINADO.PNG)
+ 
+ ![assinando](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/ASSINANDO.PNG)
+ 
+  ![asstabeliao](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/ASSINATURA%20DO%20TABELI%C3%83O.PNG)
 
 
-2 VIDEO CONFERENCIA 
+Concluídas as assinaturas da folha do livro, basta dar andamento no traslado, clicando em concluir traslado.
 
-DADOS PESSOAIS PARA GERAR O CERTIFICADO DIGITAL, ACABA A VIDEO CONFERENCIA E CHEGA A MENSAGEM SMS 
-CIENTE CLICA NO LINK NO SMS E SERÁ 
+![documentoassinado](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/DOCUMENTO%20ASSINADO%20COM%20SUCESSO.PNG)
 
-Você receberá um SMS com um link. Clique no link e selecione a opção de emissão do certificado pelo aplicativo. Você será direcionado ao aplicativo (já baixado) e deve seguir o passo a passo dentro dele para emissão do certificado. ▶️
-6) Certificado emitido! ✅
+Primeiro passo, anexar o traslado:
 
-ESSA QUE PAGA 0,11 CENTADO POR MINUTO, COLOCA PRA GRAVAR
+ ![traslado](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/ANEXAR_TRASLADO.PNG)
+ 
+ Segundo passo, posicionar a assinatura do tabelião e assinar.
+ 
+ É possível enviar o traslado para o cliente diretamente pelo site:
+ 
+![enviartraslado](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/ENVIAR%20O%20TRASLADO%20POR%20E-MAIL.PNG)
 
-QUANDO A PESSOA ASSINA CHEGA O E-MAIL
+A folha do livro e o traslado com as assinaturas eletrônicas já estão disponíveis para impressão:
 
-TABELIÃO ASSINA
+ ![final](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/CONCLUINDO%20COM%20SUCESSO.PNG)
+ 
+ Nas versões para impressão já constam os manifestos de assinatura.
+ 
+ No Acsiv devem ser preenchidas as informações do ato notarial eletrônico.
 
-CONCLUI
+![ato](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/ATO_PRATICA.PNG)
 
-AGORA É O TRASLADO (CONCLUIR TRASLADO)
+**MNE:** Matrícula Notarial Eletrônica é um código gerado por ato notarial eletrônico. Ele é encontrado na tela do fluxo de assinaturas e também nos manifestos de assinatura.
+**Cód. valid. parte:** É o código das assinaturas das partes no ato notarial eletrônico. Ele é encontrado no manifesto de assinatura da folha do livro.
+**Cód. valid. escrevente:** É o código da assinatura do tabelião no ato notarial eletrônico. Ele é encontrado no manifesto de assinatura do traslado.
 
-ANEXAR O TRASLADO DIGITALIZADO, O TRASLADO TEM QUE TER A ASSINATURA DO TABELIAO
- ![]()
+ ![livro](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/MANIFESTO%20DE%20ASSINATURA%20DO%20LIVRO.PNG)
+
+ ![traslado](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/MANIFESTO%20DE%20ASSINATURA%20DO%20TRASLADO.PNG)
