@@ -15,7 +15,7 @@ A primeira coisa a se fazer é realizar a prática do ato pelo sistema Acsiv pre
  
  Finalizando a lavratura, digitalizar a folha do livro *(em um único arquivo)* e o traslado *(em um único arquivo)*. Caso tenha alguma parte que assinará fisicamente, deve ser coletada a assinatura antes da digitalização.
  
-Como demonstrado a seguir:
+
  
  ![LIVRO](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/LIVRO.png)
 
@@ -23,9 +23,9 @@ Como demonstrado a seguir:
  
  ![LIVRO_FIM](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/LIVRO_FIM.png)
  
- **Obs:** Necessário que as partes já possuam certificado digital (ICP-Brasil ou notarizado). Caso não possua, deve ser feito antes no CCN.
+ **Obs:** Necessário que as partes já possuam certificado digital. Caso não possua, deve ser feito antes no CCN.
  
-  Basta acessar a plataforma do E-notariado *(Fluxo de Assinaturas)* - necessário que o Tabelião ou Escrevente Autorizado faça o login com o certificado digital ICP-Brasil. 
+  Basta acessar a plataforma do E-notariado *(Fluxo de Assinaturas)* - necessário que o Tabelião ou Escrevente Autorizado faça o login com o certificado digital. 
   
   
    ![enotariado](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/E-NOTARIADO.PNG)
@@ -133,7 +133,7 @@ A folha do livro e o traslado com as assinaturas eletrônicas já estão dispon�
  
  Nas versões para impressão já constam os manifestos de assinatura.
  
- No Acsiv devem ser preenchidas as informações do ato notarial eletrônico.
+ No Acsiv *(Menu Notas > Documentos > Aba Observações)* devem ser preenchidas as informações do ato notarial eletrônico.
 
 ![ato](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/ATO_PRATICA.PNG)
 
