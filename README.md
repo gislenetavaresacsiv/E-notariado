@@ -23,7 +23,10 @@ A primeira coisa a se fazer é realizar a prática do ato pelo sistema Acsiv pre
  
  ![LIVRO_FIM](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/LIVRO_FIM.png)
  
+ 
+ 
  **Obs:** Necessário que as partes já possuam certificado digital. Caso não possua, deve ser feito antes no CCN.
+ 
  
  
   Basta acessar a plataforma do E-notariado *(Fluxo de Assinaturas)* - necessário que o Tabelião ou Escrevente Autorizado faça o login com o certificado digital.
@@ -33,9 +36,12 @@ A primeira coisa a se fazer é realizar a prática do ato pelo sistema Acsiv pre
    ![enotariado](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/E-NOTARIADO.PNG)
    
    
+   
   
   Clicar em ![botaomais](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/bOTAO.PNG) para adicionar um novo documento.
   
+   
+   
    
    
   Selecionar o tipo de ato notarial:
@@ -43,6 +49,7 @@ A primeira coisa a se fazer é realizar a prática do ato pelo sistema Acsiv pre
   
    ![opcoes](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/OP%C3%87%C3%95ES.PNG)
    
+
 
  Coloque a folha do livro digitalizada:
  
@@ -56,10 +63,13 @@ A primeira coisa a se fazer é realizar a prática do ato pelo sistema Acsiv pre
  ![preencherinformacoes](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/PREENCHER_INFORMA%C3%87%C3%95ES.PNG)
  
  
+ 
  ![preencherinformacoes1](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/PREENCHER_INFORMA%C3%87%C3%95ES_1.PNG)
+ 
 
 
  ![partes](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/DEPOIS%20MOSTRA%20A%20LOPCALIZA%C3%87%C3%83O%20DAS%20ASSINATURAS.PNG)
+ 
  
  
  Cadastrar como parte do ato notarial o tabelião ou escrevente autorizado que assinará eletronicamente.
@@ -71,10 +81,13 @@ A primeira coisa a se fazer é realizar a prática do ato pelo sistema Acsiv pre
  ![ordem](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/ORDEM_ACOES.PNG)
  
  
+ 
  É possível posicionar as assinaturas no documento:
  
 
  ![posicao](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/POSICIONO%20ONDE%20QUERO%20COLOCAR%20A%20IMAGEM.PNG)
+ 
+ 
  
  
  Clicar em   ![enviar](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/JA%20CRIA%20NO%20E-NOTARIADO.PNG)
