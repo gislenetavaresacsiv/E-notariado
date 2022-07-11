@@ -93,7 +93,7 @@ A primeira coisa a se fazer é realizar a prática do ato pelo sistema Acsiv pre
  Clicar em   ![enviar](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/JA%20CRIA%20NO%20E-NOTARIADO.PNG)
  
 
-Neste momento o documento é criado no E-notariado, gerando despesa para o cartório, comunicando as partes da pendência de assinatura do ato e habilitando a videoconferência conforme imagem abaixo:
+Neste momento o documento é criado no E-notariado,  comunicando as partes da pendência de assinatura do ato e habilitando a videoconferência conforme imagem abaixo:
 
 
  ![video](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/DEPOIS%20DE%20ENVIAR.PNG)
