@@ -60,20 +60,14 @@ Necessário ordenar as ações, conforme assinaturas. A assinatura do tabelião 
  
  Clicar em  ![enviar](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/JA%20CRIA%20NO%20E-NOTARIADO.PNG)
 
+Neste momento o documento é criado no E-notariado, gerando despesa para o cartório, comunicando as partes da pendência de assinatura do ato e habilitando a videoconferência:
 
-ANEXAR O LIVRO
-DEPOIS QUE ANEXA A FOLHA DO LIVRO PERMITE POSICIONAR AS ASSINATURAS
+ ![video](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/DEPOIS%20DE%20ENVIAR.PNG)
 
-ENVIAR - JÁ CRIA O DOCUMENTO NO E-NOTARIADO, GERA A DESPESA PARA O CARTORIO E ENVIA E-MAIL PARA PARTES ASSINAREM
+Clicar em iniciar videoconferência ![iniciar](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/MANDA%20O%20LINK%20PARA%20CLIENTE.PNG)
 
-PARA ASSINAR TEM QUE TER UM CERTIFICADO DIGITAL, NO CASO A PESSOA NÃO TENHA, O CARTÓRIO GERA
+ ![]()
 
-GERAR O CERTIFICADO DA PESSOA, ENTRA NO CCN(ABA), SE A PESSOA TIVER O CADASTRO NO CNN, SÓ VERIFICAR
-CADASTRA A PESSOA - PRECISA TER UM CELULAR COMO CELULAR PRIMARIO
-
-LINK DE CONFERENCIA ANTES DE FINALIZAR O CERTIFICADO
-
-VIDEO CONFERENCIA SEMPRE TEM QUE SER GRAVADO
 
 2 VIDEO CONFERENCIA 
 
