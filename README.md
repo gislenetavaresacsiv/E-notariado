@@ -8,7 +8,7 @@ O objetivo não será explicar a plataforma do E-notariado e sim demonstrar o pr
 A primeira coisa a se fazer é realizar a prática do ato pelo sistema Acsiv preenchendo todas as informações pelo *Menu > Notas > Documentos*, basta clicar em ![botaonovo](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Imagens/Botao_Novo.PNG) para preencher os dados conforme imagem a seguir:
 
 
- ![teladocumentosminuta]()
+ ![teladocumentosminuta](https://github.com/gislenetavaresacsiv/E-notariado/blob/main/Nova_Imagem/MINUTA.PNG)
  
  Após o preenchimento de todos os campos, a minuta deve ser gerada. Na sequência, deve ser lavrado o ato.
  
